@@ -2,6 +2,12 @@
 
 API REST para gestión de leads, construida con Python, FastAPI y PostgreSQL.
 
+## Demo en vivo
+
+**API:** https://leads-api-production-80e5.up.railway.app  
+**Swagger:** https://leads-api-production-80e5.up.railway.app/docs  
+**Health:** https://leads-api-production-80e5.up.railway.app/health
+
 ## Stack tecnológico y decisiones
 
 | Tecnología | Versión | Razón de elección |
